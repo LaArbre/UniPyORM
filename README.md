@@ -9,8 +9,6 @@ Il permet de définir des modèles, gérer les types SQL et les relations, et cr
 - Installation
 - Utilisation
 - Exemples de scripts
-- Contribution
-- Roadmap
 - Licence
 
 ## Présentation
@@ -92,6 +90,9 @@ view_data = ArticlesAvecAuteur.validate()
 for row in view_data:
     print(row["titre"], row["pseudo"], row["email"])
 ```
+
+## Exemples de scripts
+A venir, amusez vous pour le moment
 
 ## Licence
 MIT License
