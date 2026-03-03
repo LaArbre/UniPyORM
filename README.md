@@ -26,7 +26,7 @@ Il vise à fournir une interface simple et sûre pour la manipulation des bases 
 
 ## Installation
 ```bash
-git clone https://github.com/<votre_utilisateur>/PyCrossORM.git
+git clone https://github.com/LaArbre/PyCrossORM.git
 cd PyCrossORM
 pip install -r requirements.txt
 ```
